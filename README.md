@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220, 11 November 2021
 
+A demonstration of this exercise is available at [https://youtu.be/QyioUMnDEok](https://youtu.be/QyioUMnDEok)
+
 This exercise explores attaching models together, preserving their animation. We will be working with a (slightly) modified version of the [3D-Character](https://github.com/BL-MSCH-C220-F21/3D-Character).
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06b-Handheld-Weapon. Edit the LICENSE and replace BL-MSCH-C220-F21 with your full name. Commit your changes.
